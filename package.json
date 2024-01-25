@@ -1,6 +1,6 @@
 {
   "name": "next-barcode-qr-scanner",
-  "version": "0.0.1.1",
+  "version": "0.0.2",
   "main": "BarcodeScanner.tsx",
   "type": "module",
   "description": "Barcode and QR code scanner for Next.js",
