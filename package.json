@@ -4,6 +4,19 @@
   "main": "BarcodeScanner.tsx",
   "type": "module",
   "description": "Barcode and QR code scanner for Next.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bashtag/next-barcode-qr-scanner"
+  },
+  "keywords": [
+    "next",
+    "next.js",
+    "barcode",
+    "qr",
+    "scanner",
+    "zxing"
+  ],
+  "author": "bashtag",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
